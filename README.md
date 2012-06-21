@@ -1,4 +1,6 @@
-== Welcome to Rails
+== Ruby on Rails Tutorial: first application
+
+Yay! it works. Following the Ruby on rails tutorial by Michael Hartl.
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
